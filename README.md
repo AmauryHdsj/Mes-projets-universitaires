@@ -3,7 +3,7 @@
 Ce dépôt contient tous les projets que j'ai réalisés au cours de ma troisième année de licence en Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE).
 Projets inclus
 
-    Projet de site en Symfony et PHP : Ce projet consiste en un site web développé en utilisant le framework Symfony et le langage de programmation PHP. Il comprend des fonctionnalités telles que [décrivez brièvement les principales fonctionnalités du projet].
+    [Projet de site en Symfony et PHP](https://github.com/AmauryHdsj/Pw.git): Ce projet consiste en un site web développé en utilisant le framework Symfony et le langage de programmation PHP. Il comprend des fonctionnalités telles que une partie Back-end réalisé en PHP et une autre partie Front-end réalise en Symfony
 
     Morpion : Petite application en MVC qui est un morpion avec une IHM.
 
