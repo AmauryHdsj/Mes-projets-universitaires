@@ -18,3 +18,6 @@ Projets inclus
 
     Analyse de donnée: Vous retrouverez dans ce zip tout les TP que nous avons fait en binomes sous le logiciel R. 
     Les tp avaient pour but d'appliquer la théorie vu en cm. Notions abordés Clustering/ACP/Régression Linéaire simple et multiple
+
+    Arbres: Manipulation de la structure d'arbre binaire de recherche appliquée à des pixels, comprenant plusieurs 
+    opérations telles que l'addition, l'union, le zoom, le dézoom et l'inversion sur des images.
